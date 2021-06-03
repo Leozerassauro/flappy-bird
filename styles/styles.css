@@ -54,6 +54,7 @@
   right: 10px;
   font-family: 'Sigmar One', sans-serif;
   font-size: 70px;
+  z-index: 100;
 }
 
 
