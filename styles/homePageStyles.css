@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+.PaginaInicial {
+  position: relative;
+  border: 5px solid dodgerblue;
+  height: 700px;
+  width: 1200px;
+  margin: 15px;
+  background-color: dodgerblue;
+  overflow: hidden;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a {
+  background-color: #fff;
+  width: 500px;
+  height: 150px;
+
+  color: #0D262D;
+  font-size: 50px;
+  text-decoration: none;
+  border-radius: 50%;
+
+  transition: background-color 0.2s;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a:hover {
+  background-color: rgb(187, 187, 187);
+}
