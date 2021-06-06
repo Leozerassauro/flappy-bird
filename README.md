@@ -1,5 +1,5 @@
-https://github.com/Leozerassauro/flappy-bird/blob/master/github/flappy-bird.png<h1 align="center">
-    <img alt="Flappy Bird Logo" src="https://tcf.admeen.org/game/15000/14610/320x160/flappy-bird.jpg" />
+<h1 align="center">
+ <img alt="Flappy Bird Logo" src="https://tcf.admeen.org/game/15000/14610/320x160/flappy-bird.jpg" />
     <br>
     Flappy Bird Project
 </h1>
