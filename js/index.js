@@ -119,6 +119,7 @@ function estaoSobrepostos(elementoA, elementoB) {
   return horizontal && vertical;
 }
 
+
 function colidiu(passaro, barreiras) {
   let colidiu = false;
 
@@ -127,8 +128,9 @@ function colidiu(passaro, barreiras) {
       const superior = parDeBarreiras.superior.elemento
       const inferior = parDeBarreiras.inferior.elemento
 
-      colidiu = estaoSobrepostos(passaro.elemento, superior) 
-      || estaoSobrepostos(passaro.elemento, inferior)
+      colidiu = estaoSobrepostos(passaro.elemento, superior)
+        || estaoSobrepostos(passaro.elemento, inferior)
+
     }
   })
 
