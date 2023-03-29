@@ -34,10 +34,12 @@
 </br>
 
 <p>
-  <a href="https://flappy-bird-project-leo.netlify.app/" target="_blank">
-   <h2 align="center">Try on Netlify!</h2>
-  </a>
-   <h3 align="center">Press any button to go <strong>up</strong> and just drop the button to go <strong>down</strong>!</h3>
+  <h2 align="center">
+    <a href="https://flappy-bird-project-leo.netlify.app/">
+      Try on Netlify!
+    </a>
+  </h2>
+  <h3 align="center">Press any button to go <strong>up</strong> and just drop the button to go <strong>down</strong>!</h3>
 </p>
 </br>
 
